@@ -1,0 +1,1 @@
+# Gierka na PAM
